@@ -40,10 +40,10 @@
                 <img  src="{{asset('/images/'.$product->image) }}">
                 <h4>{{ $product->name }}</h4>
                 @if ($product->sale_price)
-                  <h5>{{ $product->sale_price }} $</h5>
-                  <h6 style="text-decoration: line-through;">{{ $product->price }} $</h6>                          
+                  <h5>ksh {{ $product->sale_price }}</h5>
+                  <h6 style="text-decoration: line-through;">ksh {{ $product->price }}</h6>                          
                 @else
-                  <h6>{{ $product->price }} $</h6>                         
+                  <h6>ksh {{ $product->price }}</h6>                         
                 @endif
                 <form action="{{ route('addToCart') }}" method="POST">
                   @csrf
