@@ -154,16 +154,17 @@ a {
 }
 /* Banner Style */
 .banner {
-	margin-top: 70px;
-	background-image: url(../images/banner5.jpg);
+	margin-top: 50px;
+	background-image: url(../images/banner8.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
-	padding: 300px 300px;
+	padding: 150px 150px;
 }
 .banner .caption {
 	background-color: rgba(250,250,250,0.9);
-	padding: 30px;
+	padding: 50px;
 	max-width: 450px;
+	float: right;
 }
 .banner .caption h2 {
 	margin-top: 0px;

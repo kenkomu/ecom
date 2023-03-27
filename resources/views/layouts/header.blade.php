@@ -55,7 +55,7 @@
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark static-top">
       <div class="container">
         <a href="/"><img src="{{ asset('/images/logo/logo.png') }}"
-          class="img-fluid rounded" style="width: 100px"></a>
+          class="img-fluid rounded" style="width: 80px"></a>
         <a class="navbar-brand" href="/">Fashion Shop</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="fa fa-home"></span>
