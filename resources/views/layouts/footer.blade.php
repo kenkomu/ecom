@@ -44,7 +44,7 @@
       <div class="row">
         <div class="col-md-12">
           <div class="text-center">
-            <p>Copyright &copy;  Nenad Savkic 2022</p>
+            <p>Copyright &copy;  Kenneth Komu 2023</p>
           </div>
         </div>
       </div>

@@ -9,11 +9,11 @@
 
 ### Clone the repository 
 
-   <p> git clone https://github.com/Nenadsavkic/ecommerce.git </p>
+   <p> git clone https://github.com/kenkomu/ecom.git </p>
 
    ### Switch to the repository cloned folder
 
-   <p> example path:  PS C:\Users> cd ecommerce  </p>
+   <p> example path:  PS C:\Users> cd ecom  </p>
 
 ### Install all the dependencies using composer
 
