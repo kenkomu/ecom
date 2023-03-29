@@ -58,7 +58,7 @@
 ### HOMEPAGE
 ![Screenshot from 2023-03-28 16-14-18](https://user-images.githubusercontent.com/95502725/228250249-2045a0c4-3061-46df-8f81-47ce1acefd02.png)
 ### PRODUCTS PAGE
-    ![Screenshot from 2023-03-28 16-22-33](https://user-images.githubusercontent.com/95502725/228250670-959af9ca-492f-4e58-b34c-370b75eb4334.png)
+![Screenshot from 2023-03-28 16-22-33](https://user-images.githubusercontent.com/95502725/228250670-959af9ca-492f-4e58-b34c-370b75eb4334.png)
 
 ![Screenshot from 2023-03-28 16-23-26](https://user-images.githubusercontent.com/95502725/228250904-a8a9a9c1-3979-4bf0-ad3b-6536216f1c9e.png)
 
