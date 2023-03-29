@@ -59,9 +59,11 @@
 ![Screenshot from 2023-03-28 16-14-18](https://user-images.githubusercontent.com/95502725/228250249-2045a0c4-3061-46df-8f81-47ce1acefd02.png)
 ### PRODUCTS PAGE
 ![Screenshot from 2023-03-28 16-22-33](https://user-images.githubusercontent.com/95502725/228250670-959af9ca-492f-4e58-b34c-370b75eb4334.png)
-
+### CART PAGE
 ![Screenshot from 2023-03-28 16-23-26](https://user-images.githubusercontent.com/95502725/228250904-a8a9a9c1-3979-4bf0-ad3b-6536216f1c9e.png)
-
+### CHECKOUT PAGE
 ![Screenshot from 2023-03-28 16-24-08](https://user-images.githubusercontent.com/95502725/228251088-9f506420-e609-4d85-b0a2-1b07a8a3e970.png)
+### PAYMENT PAGE
 ![Screenshot from 2023-03-28 16-24-42](https://user-images.githubusercontent.com/95502725/228251253-fbd328fd-e382-4f39-b9f2-a95946810764.png)
+### PAYPAL PAGE
 ![Screenshot from 2023-03-28 16-26-07](https://user-images.githubusercontent.com/95502725/228251820-ec6bc71d-b5cd-41e6-8aa8-85ff6a70b120.png)
